@@ -1,0 +1,10 @@
+{
+  "name": "NOVA - Personal AI Desktop Assistant",
+  "description": "Futuristic AI desktop companion for task planning, tool execution, and secure Windows PC bridge control with voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
